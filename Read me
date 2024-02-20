@@ -1,0 +1,22 @@
+Admin:-
+ npm install
+
+ npm run dev
+
+
+ backend :-
+  Used mongodb for databse
+   npm install to install nodemodules
+
+   npm start
+
+frontent :-
+ npm install
+
+ npm start
+ 
+
+ * Used css for most part and use bootstrap for little changes
+
+ mongoose
+ : mongodb+srv://kumarsmbikash01:Ecommerce123@cluster0.3gbruyi.mongodb.net/e-commerce"
